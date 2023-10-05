@@ -1,6 +1,7 @@
 # Template 
 
-![image](https://github.com/gbdev-labs/template-portfolio-tutorial-2023/assets/71772559/ade0ec7a-cb22-4c5c-a4fa-183ab380357e)
+https://github.com/GeisonFranco/barba/assets/120679860/77527e2c-5102-4004-afdd-bea2604726a9
+
 
 
 Este é um template básico de um Portfólio com as ferramentas mais recentes de desenvolvimento web. O template inclui o Next.js 13, Tailwind CSS, TypeScript.
